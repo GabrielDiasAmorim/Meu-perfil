@@ -26,6 +26,8 @@ p {
     color: #94a3b8;
 }
 a {
+    display: block;
+    padding: 20px;
     background-color: #334155;
     color: #ffffff;
 }
