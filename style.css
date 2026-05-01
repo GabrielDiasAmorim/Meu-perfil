@@ -27,6 +27,7 @@ p {
 }
 a {
     display: block;
+    margin: 15px;
     padding: 20px;
     background-color: #334155;
     color: #ffffff;
