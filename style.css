@@ -11,6 +11,7 @@ body {
     box-shadow: 3px 3px 4px #222;
     padding: 22px;
     border-radius: 12px;
+    text-align: center;
 }
 img {
     width: 100px;
